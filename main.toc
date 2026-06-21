@@ -1,21 +1,36 @@
-\contentsline {chapter}{\numberline {1}Mở đầu}{1}{}%
-\contentsline {chapter}{\numberline {2}Tổng quan tài liệu}{3}{}%
-\contentsline {section}{\numberline {2.1}Section Title}{3}{}%
-\contentsline {section}{\numberline {2.2}Section Title}{4}{}%
-\contentsline {section}{\numberline {2.3}Section Title}{6}{}%
-\contentsline {subsection}{\numberline {2.3.1}SubSection Title}{7}{}%
-\contentsline {subsection}{\numberline {2.3.2}SubSection Title}{7}{}%
-\contentsline {chapter}{\numberline {3}Phương pháp nghiên cứu}{8}{}%
-\contentsline {section}{\numberline {3.1}Section Title}{8}{}%
-\contentsline {subsection}{\numberline {3.1.1}SubSection Title}{9}{}%
-\contentsline {chapter}{\numberline {4}Kết quả và Thảo luận}{10}{}%
-\contentsline {section}{\numberline {4.1}Section Title}{10}{}%
-\contentsline {section}{\numberline {4.2}Section Title}{11}{}%
-\contentsline {section}{\numberline {4.3}Section Title}{11}{}%
-\contentsline {chapter}{\numberline {5}Kết luận}{14}{}%
-\contentsline {chapter}{\numberline {6}Hướng phát triển}{15}{}%
-\contentsline {section}{\numberline {6.1}Section Title}{15}{}%
-\contentsline {subsection}{\numberline {6.1.1}subsection Title}{15}{}%
-\contentsline {section}{\numberline {6.2}Section Title}{16}{}%
-\contentsline {section}{\numberline {6.3}Section Title}{16}{}%
-\contentsline {chapter}{\numberline {A}Phụ lục}{19}{}%
+\contentsline {chapter}{\numberline {1}Giới thiệu}{1}{}%
+\contentsline {section}{\numberline {1.1}Mục địch}{1}{}%
+\contentsline {section}{\numberline {1.2}Phạm vi}{1}{}%
+\contentsline {chapter}{\numberline {2}Phân tích và thiết kế hệ thống}{2}{}%
+\contentsline {section}{\numberline {2.1}Tác nhân}{2}{}%
+\contentsline {section}{\numberline {2.2}Biểu đồ ca sử dụng}{2}{}%
+\contentsline {subsection}{\numberline {2.2.1}Biểu đồ ca sử dụng của A}{2}{}%
+\contentsline {subsection}{\numberline {2.2.2}Biểu đồ ca sử dụng của B}{2}{}%
+\contentsline {subsection}{\numberline {2.2.3}Biểu đồ ca sử dụng của C}{2}{}%
+\contentsline {section}{\numberline {2.3}Lược đồ cơ sở dữ liệu}{2}{}%
+\contentsline {section}{\numberline {2.4}Biểu đồ hoạt động}{2}{}%
+\contentsline {section}{\numberline {2.5}Biểu đồ tuần tự}{2}{}%
+\contentsline {section}{\numberline {2.6}Kiến trúc hệ thống}{2}{}%
+\contentsline {chapter}{\numberline {3}Quản lý dự án}{3}{}%
+\contentsline {section}{\numberline {3.1}Mô hình SCRUM}{3}{}%
+\contentsline {section}{\numberline {3.2}Quản lý dự án bằng Trello}{3}{}%
+\contentsline {section}{\numberline {3.3}Quản lý source code bằng GitHub}{3}{}%
+\contentsline {chapter}{\numberline {4}Giao diện website và các chức năng}{4}{}%
+\contentsline {section}{\numberline {4.1}Các chức năng của A}{4}{}%
+\contentsline {section}{\numberline {4.2}Các chức năng của B}{4}{}%
+\contentsline {section}{\numberline {4.3}Các chức năng của C}{4}{}%
+\contentsline {chapter}{\numberline {5}Kiểm thử}{5}{}%
+\contentsline {section}{\numberline {5.1}Kiểm thử A}{5}{}%
+\contentsline {section}{\numberline {5.2}Kiểm thử B}{5}{}%
+\contentsline {section}{\numberline {5.3}Kiểm thử C}{5}{}%
+\contentsline {chapter}{\numberline {6}Yêu cầu phi chức năng}{6}{}%
+\contentsline {section}{\numberline {6.1}Hiệu suất}{6}{}%
+\contentsline {section}{\numberline {6.2}Khả năng mở rộng}{6}{}%
+\contentsline {section}{\numberline {6.3}Bảo mật}{6}{}%
+\contentsline {section}{\numberline {6.4}Trình duyệt}{6}{}%
+\contentsline {section}{\numberline {6.5}Ngôn ngữ}{6}{}%
+\contentsline {section}{\numberline {6.6}Giao diện}{6}{}%
+\contentsline {chapter}{\numberline {7}Hướng phát triển}{7}{}%
+\contentsline {section}{\numberline {7.1}Kết luận}{7}{}%
+\contentsline {section}{\numberline {7.2}Hướng phát triển}{7}{}%
+\contentsline {chapter}{\numberline {A}Phụ lục}{8}{}%
