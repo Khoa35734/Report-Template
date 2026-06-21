@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.6.4)  21 JUN 2026 14:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.6.4)  21 JUN 2026 15:47
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **e:/Maubaocao/main.tex
@@ -944,28 +944,28 @@ Package biblatex Info: ... and expl3
 Package: xparse 2025-10-09 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
-))
+)) (chapters/acronyms.tex)
 \@quotelevel=\count490
 \@quotereset=\count491
  (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
  (C:\Users\Khoa\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count492
@@ -984,7 +984,50 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Khoa\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
+)) (main.glsdefs
+
+Package glossaries Warning: entry `srs' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 27.
+
+
+Package glossaries Warning: entry `oop' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 55.
+
+
+Package glossaries Warning: entry `api' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 83.
+
+
+Package glossaries Warning: entry `mvc' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 111.
+
+
+Package glossaries Warning: entry `rest' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 139.
+
+
+Package glossaries Warning: entry `dbms' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 167.
+
+
+Package glossaries Warning: entry `sql' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 195.
+
+
+Package glossaries Warning: entry `nosql' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 223.
+
+
+Package glossaries Warning: entry `ui' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 251.
+
+
+Package glossaries Warning: entry `ux' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 279.
+
+
+Package glossaries Warning: entry `cicd' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 307.
+
+
+Package glossaries Warning: entry `aws' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 335.
+
+
+Package glossaries Warning: entry `ai' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 363.
+
+
+Package glossaries Warning: entry `ml' has already been defined in the preamble (if you have moved the definition there from the document environment, delete main.glsdefs) on input line 391.
+
+)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
@@ -1035,8 +1078,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 34.
-Package biblatex Info: Reference segment=0 on input line 34.
+Package biblatex Info: Reference section=0 on input line 38.
+Package biblatex Info: Reference segment=0 on input line 38.
  (titlepage.tex
 <images/logo.jpg, id=4, 225.84375pt x 225.84375pt>
 File: images/logo.jpg Graphic file (type jpg)
@@ -1062,17 +1105,19 @@ Package pdftex.def Info: images/logo.jpg  used on input line 19.
 \tf@lot=\write9
 \openout9 = `main.lot'.
 
+ [4
 
-No file main.acr.
-[4
+] (main.acr [5
 
-] (main.toc)
+]) [6
+
+] (main.toc [7
+
+])
 \tf@toc=\write10
 \openout10 = `main.toc'.
 
- [5
-
-]
+ [8]
 Chương 1.
 (chapters/introduction.tex) [1
 
@@ -1101,12 +1146,10 @@ Chương 7.
 (chapters/chapter07.tex) [7
 
 ]
-Phụ lục A.
-(chapters/appendix.tex)
-
-LaTeX Warning: Empty bibliography on input line 80.
-
-[8
+LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 91.
+ (C:\Users\Khoa\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
+File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [8
 
 ] (main.aux)
  ***********
@@ -1118,17 +1161,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31031 strings out of 467683
- 644294 string characters out of 5415206
- 1501728 words of memory out of 5000000
- 59651 multiletter control sequences out of 15000+600000
- 644817 words of font info for 66 fonts, out of 8000000 for 9000
+ 31707 strings out of 467683
+ 655498 string characters out of 5415206
+ 1505012 words of memory out of 5000000
+ 60314 multiletter control sequences out of 15000+600000
+ 646759 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,12n,117p,2565b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Khoa/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/Khoa/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/Khoa/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/Khoa/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb>
-Output written on main.pdf (14 pages, 106544 bytes).
+ 89i,12n,117p,2565b,1287s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Khoa/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/Khoa/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/Khoa/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vncsc10.pfb><C:/Users/Khoa/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/Khoa/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/Khoa/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/Khoa/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb>
+Output written on main.pdf (17 pages, 134227 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 96 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -31,6 +31,10 @@
 \renewcommand{\figurename}{Hình}
 \renewcommand{\tablename}{Bảng}
 
+% --- FIX LỖI 1: Khởi tạo và nạp file từ viết tắt phải nằm ở phần Preamble ---
+\makeglossaries
+\input{chapters/acronyms.tex} 
+
 \begin{document}
 \pagenumbering{roman} 
 
@@ -42,13 +46,21 @@
 
 \input{tables/phan_cong_nhiem_vu.tex}
 
-
 \listoffigures
 
 \listoftables
 
-\printglossary[type=\acronymtype,title={Danh mục các từ viết tắt}]
+% --- FIX LỖI 2: Đưa Danh mục viết tắt vào mục lục & Ép hiển thị khung mẫu ---
+% --- CẬP NHẬT: TẠM ẨN KHỎI MỤC LỤC VÀ TẠO TRANG MẪU ---
+\clearpage
+% Tạm ẩn dòng dưới đây để không hiển thị trong Mục lục
+% \addcontentsline{toc}{chapter}{Danh mục các từ viết tắt} 
 
+% Dùng lệnh này để trang có tiêu đề hiển thị rõ ràng, không bị trắng tinh
+
+% Tạm thời comment (vô hiệu hóa) các lệnh sinh tự động để tránh lỗi
+\glsaddall 
+\printglossary[type=\acronymtype,title={Danh mục các từ viết tắt}]
 \tableofcontents
 
 \doublespacing
@@ -73,10 +85,9 @@
 
 \chapter{Hướng phát triển}
 \input{chapters/chapter07}
-\appendix
-\chapter{Phụ lục}
-\input{chapters/appendix}
+
 \singlespacing
-\printbibliography[title={Tài liệu tham khảo}]
+% --- Thêm Tài liệu tham khảo vào mục lục bằng heading=bibintoc ---
+\printbibliography[heading=bibintoc, title={Tài liệu tham khảo}]
 
 \end{document}

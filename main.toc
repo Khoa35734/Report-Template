@@ -19,6 +19,10 @@
 \contentsline {section}{\numberline {4.1}Các chức năng của A}{4}{}%
 \contentsline {section}{\numberline {4.2}Các chức năng của B}{4}{}%
 \contentsline {section}{\numberline {4.3}Các chức năng của C}{4}{}%
+\contentsline {section}{\numberline {4.4}Các chức năng của D}{4}{}%
+\contentsline {section}{\numberline {4.5}Các chức năng của E}{4}{}%
+\contentsline {section}{\numberline {4.6}Các chức năng của F}{4}{}%
+\contentsline {section}{\numberline {4.7}Các chức năng của G}{4}{}%
 \contentsline {chapter}{\numberline {5}Kiểm thử}{5}{}%
 \contentsline {section}{\numberline {5.1}Kiểm thử A}{5}{}%
 \contentsline {section}{\numberline {5.2}Kiểm thử B}{5}{}%
@@ -33,4 +37,4 @@
 \contentsline {chapter}{\numberline {7}Hướng phát triển}{7}{}%
 \contentsline {section}{\numberline {7.1}Kết luận}{7}{}%
 \contentsline {section}{\numberline {7.2}Hướng phát triển}{7}{}%
-\contentsline {chapter}{\numberline {A}Phụ lục}{8}{}%
+\contentsline {chapter}{Tài liệu tham khảo}{8}{}%
